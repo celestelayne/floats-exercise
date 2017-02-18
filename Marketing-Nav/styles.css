@@ -1,0 +1,56 @@
+body {
+	color: #141414;
+}
+
+header {
+	background: #E26A6A;
+	float: left;
+	width: 100%;
+}
+
+section {
+	background: #52B3D9;
+	width: 100%;
+	float: left;
+}
+
+article {
+	background: #68C3A3;
+	width: calc(100%/3);
+	float: left;
+}
+
+footer {
+	background: #F5AB35;
+	width: 100%;
+	float: left;
+}
+
+.filler {
+	padding: 20px;
+	margin: 15px;
+	opacity: .5;
+	background-color: white;
+}
+
+.content {
+	height: 200px;
+}
+
+.logo,
+.navigation {
+  display: inline;
+}
+
+.navigation {
+	float: right;
+}
+
+.menu-bar {
+	display: inline;
+}
+
+.menu-bar li {
+	display: inline;
+	padding: 20px;
+}

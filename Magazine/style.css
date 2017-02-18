@@ -1,0 +1,57 @@
+header {
+	background: #E26A6A;
+	width: 100%;
+	float: left;
+}
+
+section {
+	background: #52B3D9;
+	width: 80%;
+	float: left;
+}
+
+aside {
+	background: #BE90D4;
+	width: 20%;
+	float: left;
+	/*clear: left;*/
+}
+
+.clear {
+	clear: left;
+}
+
+article {
+	background: #68C3A3;
+	float: left;
+	/*clear: left;*/
+}
+
+footer {
+	background: #F5AB35;
+	width: 100%;
+	float: left;
+}
+
+.filler {
+	padding: 20px;
+	margin: 15px;
+	background-color: white;
+	opacity: .5; 
+}
+
+.filler.content {
+	height: 200px;
+}
+
+.main-article {
+	width: 60%;.
+}
+
+.clear.filler {
+	height: 200px;
+}
+
+.filler.content.left-aside {
+	    height: 288px;
+}

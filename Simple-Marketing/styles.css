@@ -1,0 +1,39 @@
+body {
+	font-family: 'Inconsolata';
+	color: #141414;
+}
+
+header {
+	background: #E26A6A;
+	width: 100%;
+	float: left;
+}
+
+section {
+	background: #52B3D9;
+	width: 50%;
+	float: left;
+}
+
+article {
+	background: #68C3A3;
+	width: calc(100%/3);
+	float: left;
+}
+
+footer {
+	background: #F5AB35;
+	width: 100%;
+	float: left;
+}
+
+.filler {
+	padding: 20px;
+	margin: 15px;
+	opacity: .5;
+	background-color: white;
+}
+
+.content {
+
+}
